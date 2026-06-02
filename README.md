@@ -1,4 +1,4 @@
-# aws-2tier-webapp-alb-https
+# aws-webapp-alb-https
 🚀 AWS 2-Tier Web Application Deployment
 
 📌 Overview
